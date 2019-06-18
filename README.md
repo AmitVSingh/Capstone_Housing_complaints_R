@@ -16,6 +16,6 @@ The project contains Rmd, R and pdf files each problem with 4 subsections, one f
 ## Datasets
 
 Two datasets have been used from the Department of Housing Preservation and Development of New York City to address their problems.
-1. 311complaintdataset(https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/ erm2-nwe9)
-2. PLUTOdatasetforhousing(https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUT xuk2-nczf)
-(The details of the project overview can be found in the following link https://courses.edx.org/courses/ course-v1:IBM+DS0720EN+1T2019/course/)
+1. 311complaintdataset(https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
+2. PLUTOdatasetforhousing(https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUTxuk2-nczf)
+(The details of the project overview can be found in the following link https://courses.edx.org/courses/course-v1:IBM+DS0720EN+1T2019/course/)
